@@ -1,4 +1,4 @@
-# Zerodha learning project
+# Zerodha-clone
 
 A college learning project with a React landing site, a Vite trading dashboard, and an Express/MongoDB API. Trading, account creation, and fund movement are demo-only; they do not connect to Zerodha or move real money.
 
